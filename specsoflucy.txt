@@ -2,4 +2,46 @@
 
 <html>
 <head>
-<h1>specs</h1>
+	<title>lucy 240</title>
+</head>
+<body>
+	<h1>specsoflucy</h1>
+		
+		<h2>weight reduction</h2>
+			<ul>
+				<li>a/c delete</li>
+				<li>radio delete</li>
+				<li>no heater core or heater</li>
+				<li>no a/c</li>
+			</ul>
+		<h2>engine</h2>
+			<ul>
+				<li>stock ka24de</li>
+				<li>cold air intake</li>
+				<li>egr delete</li>
+				<li>iacv delete</li>
+				<li>aac delete</li>
+				<li>primary swirl valve delete</li>
+				<li>secondary swirl valve delete</li>
+			</ul>
+		<h2>exhaust</h2>
+			<ul>
+				<li>pace setter long tube header</li>
+				<li>custom header back exhaust</li>
+				<li>magnaflow muffler</li>
+			</ul>
+		<h2>suspension</li>
+			<ul>
+				<li>ksport coil overs</li>
+				<li>ams total hicas delete</li>
+			</ul>
+			
+				
+				
+	
+	
+	
+	
+	
+</body>
+</html>
