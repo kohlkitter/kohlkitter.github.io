@@ -20,3 +20,13 @@ h1 {
 	margin-right: 25px;
 	padding: 25px;
 }
+
+#import2 {
+border: 100px;
+	border-style: dashed;
+	border-width: 2px;
+	margin-left: 50px;
+	margin-right: 25px;
+	padding: 25px;
+
+}
