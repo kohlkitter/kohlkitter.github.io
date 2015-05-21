@@ -33,4 +33,5 @@ border: 100px;
 #pic {
 	margin-left: 500px;
 	margin-bottom: 500px;
+	position: absolute;
 }
