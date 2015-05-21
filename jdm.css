@@ -32,6 +32,6 @@ border: 100px;
 }
 #pic {
 	margin-left: 500px;
-	padding-bottom: 500px;
+	margin-top: -500px;
 	position: absolute;
 }
