@@ -32,8 +32,9 @@ border: 100px;
 }
 #pic {
     position: absolute;
-    top: 0;
-    left: 0;
-    width: -200px;
+	top: 0;
+    right: 0;
+    width: 200px;
+	margin-left: 50px;
 	
 }
