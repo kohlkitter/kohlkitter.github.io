@@ -22,7 +22,7 @@ h1 {
 }
 
 #import2 {
-border: 100px;
+border: 100px; 
 	border-style: solid;
 	border-width: 2px;
 	margin-left: 50px;
@@ -34,6 +34,6 @@ border: 100px;
     position: absolute;
     top: 0;
     left: 0;
-    width: 400px;
+    width: -200px;
 	
 }
